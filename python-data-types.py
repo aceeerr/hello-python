@@ -9,3 +9,6 @@ data = {"name": "Bart",
 print(data["name"])
 print ("My name is {}".format(data["name"]))
 print ("My first grade is {}".format(data["grade"][0]))
+
+
+
