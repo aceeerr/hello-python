@@ -1,6 +1,6 @@
-message = input ("Please type a message: ")
-print("You said '{}'".format(message))
-
-message = input ("Please type a " + "comma separated list of values: ")
-values =message.split(",")
-print("The first two elements of your list are: {} and {}".format(values[0],values[1]))
+print ("Hello, World")
+print ("My name is {}. I am {} y/o." \
+.format("Bart",18))
+print ("Hello", "World!")
+print ("Adnu", 2018, sep="-", end="")
+print (" CSNHS")
